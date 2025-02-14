@@ -1,4 +1,3 @@
-import "dotenv/config"
 import axios from "axios"
 
 const URL = "https://projeto-spotify-k40k.onrender.com/api"
